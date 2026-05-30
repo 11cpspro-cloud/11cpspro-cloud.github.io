@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Piñaretes — Calidad y Belleza</title>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://i.pinimg.com/736x/4b/25/63/4b2563c7fee6051e631d680fbd00af8e.jpg">
 <style>
 :root {
   --rose: #E8A0A8;
